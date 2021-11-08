@@ -1,0 +1,3 @@
+[submodule "landingpage/themes/PaperMod"]
+	path = landingpage/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
